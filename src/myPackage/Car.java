@@ -7,6 +7,7 @@ abstract class Fruit{
 
     public int Price(){
         int price = 1000;
+        //hello
         return price;
     }
 
